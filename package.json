@@ -1,0 +1,25 @@
+{
+  "name": "todo-backend",
+  "version": "1.0.0",
+  "description": "Todo App Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lean-stack/todo-backend.git"
+  },
+  "keywords": [
+    "expressjs",
+    "socket.io",
+    "tingodb",
+    "lean"
+  ],
+  "author": "Micha Alt <mail@lean-stack.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lean-stack/todo-backend/issues"
+  },
+  "homepage": "https://github.com/lean-stack/todo-backend#readme"
+}

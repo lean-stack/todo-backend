@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/lean-stack/todo-backend/issues"
   },
-  "homepage": "https://github.com/lean-stack/todo-backend#readme"
+  "homepage": "https://github.com/lean-stack/todo-backend#readme",
+  "dependencies": {
+    "socket.io": "^1.3.7",
+    "tingo-rest": "^1.0.2"
+  }
 }

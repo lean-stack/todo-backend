@@ -12,6 +12,3 @@ some RTC features.
 * [Socket.io](http://socket.io/) for the Socket API
 * [TingoDB](http://www.tingodb.com/) for the data store
 
-The Express middleware I'm using is a small project I wrote earlier in 2015:
-[Tingo-Rest](https://www.npmjs.com/package/tingo-rest)
-

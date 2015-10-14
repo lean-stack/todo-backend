@@ -3,3 +3,8 @@
 
 # App Datastore
 /data
+
+# Visual Studio Code settings and typings
+/typings
+/.vscode
+
